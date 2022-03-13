@@ -1,0 +1,13 @@
+1. To run the login form, open the xampp control panel and run the apache server and PHP.
+2. Now, type localhost/xampp/test/ in the browser and press Enter key.
+3. now open and type localhost/xampp/test/index up 
+4. Enter the email id & password & serect code 
+5. All setup is done now, now can login to the contact app
+6. now it will redirect to the login page and enter your detials and login
+7. enter details and click on save to save the data
+8. after completing saving contact you can end you login session by clicking on logout 
+9. if you forgot password use email and serect to reset password 
+10. after doing reseting password it will redirect to the login form
+11. you can login back and use the contact form
+  
+ 
